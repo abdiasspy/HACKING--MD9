@@ -50,8 +50,27 @@
     const { recupevents } = require('./bdd/welcome');
     //const //{loadCmd}=require("/framework/mesfonctions")
     let { reagir } = require(__dirname + "/framework/app");
-    var session = conf.session.replace(/HACKING-MD;;;=>/g,"");
-    const prefixe = conf.PREFIXE;
+    var session = conf.(
+*✅sᴇssɪᴏɴ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅*
+Use the session Id Above to
+deploy your Bot.
+╔════◇
+║『 *YOU'VE CHOSEN HACKING-MD* 』
+║ You've Completed the First Step
+║ to Deploy a Whatsapp Bot.
+╚════════════════╝
+╔═════◇
+║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/2250705607226
+║❒ 𝐑𝐞𝐩𝐨: https://github.com/HACKING995/HACKING--MD9
+║❒ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: https://t.me/freeeherokucc
+║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: https://youtube.com/@device.bot.thomas?si=1XTGwLjhIuk5XeNN
+║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/CmrAOrFSBMi4eXW8xL5UHZ
+║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VaYrk3lIiRozw8zeoh00
+║ 💜💜💜
+╚════════════════╝
+Don't Forget To Give Star⭐ To My Repo/HACKING-MD;;;=>/g,"");
+    const prefixe =$;
    
     async function authentification() {
         try {
